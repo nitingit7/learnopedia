@@ -1,0 +1,72 @@
+[2023-08-11 04:59:48 : INFO] - Re_Smush_It_Task with attachment ID : 740, autocreated on : August 11, 2023 04:59:48 
+[2023-08-11 05:05:00 : INFO] - 
+ 
+[2023-08-11 05:05:00 : INFO] - Header for logs at time:  Fri, 11 Aug 2023 05:05:00 +0000 on http://localhost/world2 
+[2023-08-11 05:05:00 : INFO] - WP: 6.3 
+[2023-08-11 05:05:00 : INFO] - PHP: 8.0.28 (apache2handler, Windows NT DESKTOP-MJE46FL 10.0 build 19045 (Windows 10) AMD64) 
+[2023-08-11 05:05:00 : INFO] - MySQL: 10.4.28 
+[2023-08-11 05:05:00 : INFO] - WPLANG: en_US 
+[2023-08-11 05:05:00 : INFO] - Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28 
+[2023-08-11 05:05:00 : INFO] - Outbound connections: N 
+[2023-08-11 05:05:00 : INFO] - Disabled Functions:  
+[2023-08-11 05:05:00 : INFO] - max_execution_time: 5000 
+[2023-08-11 05:05:00 : INFO] - memory_limit: 256M (used: 60.4M | 66M) 
+[2023-08-11 05:05:00 : INFO] - multisite: N 
+[2023-08-11 05:05:00 : INFO] - openssl: OpenSSL 1.1.1t  7 Feb 2023 
+[2023-08-11 05:05:00 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-08-11 05:05:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-08-11 05:05:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-08-11 05:05:00 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2023-08-11 05:05:00 : INFO] - Re_Smush_It_Task with attachment ID : 740, autocreated on : August 11, 2023 04:59:48 
+[2023-08-11 05:05:00 : INFO] - File: bh-image.png, Compression quality: 60 
+[2023-08-11 05:05:04 : INFO] - Backing up the original image - 2023/08/bh-image-updraft-pre-smush-original.png 
+[2023-08-11 05:05:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-08-11 05:05:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\world2/wp-content/uploads/2023/08/bh-image.png.The file was compressed from 1.06 MB to 367.92 KB, saving 66.03 percent, using WP-Optimize 
+[2023-08-11 05:05:04 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2023-08-11 05:05:04 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-08-11 05:05:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-08-11 05:05:04 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-08-11 05:05:04 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-08-11 05:10:13 : INFO] - Re_Smush_It_Task with attachment ID : 753, autocreated on : August 11, 2023 05:10:13 
+[2023-08-11 05:15:03 : INFO] - 
+ 
+[2023-08-11 05:15:03 : INFO] - Header for logs at time:  Fri, 11 Aug 2023 05:15:03 +0000 on http://localhost/world2 
+[2023-08-11 05:15:03 : INFO] - WP: 6.3 
+[2023-08-11 05:15:03 : INFO] - PHP: 8.0.28 (apache2handler, Windows NT DESKTOP-MJE46FL 10.0 build 19045 (Windows 10) AMD64) 
+[2023-08-11 05:15:03 : INFO] - MySQL: 10.4.28 
+[2023-08-11 05:15:03 : INFO] - WPLANG: en_US 
+[2023-08-11 05:15:03 : INFO] - Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28 
+[2023-08-11 05:15:03 : INFO] - Outbound connections: N 
+[2023-08-11 05:15:03 : INFO] - Disabled Functions:  
+[2023-08-11 05:15:03 : INFO] - max_execution_time: 5000 
+[2023-08-11 05:15:03 : INFO] - memory_limit: 256M (used: 60.4M | 66M) 
+[2023-08-11 05:15:03 : INFO] - multisite: N 
+[2023-08-11 05:15:03 : INFO] - openssl: OpenSSL 1.1.1t  7 Feb 2023 
+[2023-08-11 05:15:03 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-08-11 05:15:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-08-11 05:15:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-08-11 05:15:03 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2023-08-11 05:15:03 : INFO] - Re_Smush_It_Task with attachment ID : 753, autocreated on : August 11, 2023 05:10:13 
+[2023-08-11 05:15:03 : INFO] - File: blogs2.png, Compression quality: 60 
+[2023-08-11 05:15:07 : INFO] - Backing up the original image - 2023/08/blogs2-updraft-pre-smush-original.png 
+[2023-08-11 05:15:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-08-11 05:15:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\world2/wp-content/uploads/2023/08/blogs2.png.The file was compressed from 620.91 KB to 198.22 KB, saving 68.08 percent, using WP-Optimize 
+[2023-08-11 05:15:07 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2023-08-11 05:15:07 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-08-11 05:15:07 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-08-11 05:15:07 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-08-11 05:15:07 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-08-11 05:26:11 : INFO] - 
+ 
+[2023-08-11 05:26:11 : INFO] - Header for logs at time:  Fri, 11 Aug 2023 05:26:11 +0000 on http://localhost/world2 
+[2023-08-11 05:26:11 : INFO] - WP: 6.3 
+[2023-08-11 05:26:11 : INFO] - PHP: 8.0.28 (apache2handler, Windows NT DESKTOP-MJE46FL 10.0 build 19045 (Windows 10) AMD64) 
+[2023-08-11 05:26:11 : INFO] - MySQL: 10.4.28 
+[2023-08-11 05:26:11 : INFO] - WPLANG: en_US 
+[2023-08-11 05:26:11 : INFO] - Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28 
+[2023-08-11 05:26:11 : INFO] - Outbound connections: N 
+[2023-08-11 05:26:11 : INFO] - Disabled Functions:  
+[2023-08-11 05:26:11 : INFO] - max_execution_time: 5000 
+[2023-08-11 05:26:11 : INFO] - memory_limit: 256M (used: 63.6M | 66M) 
+[2023-08-11 05:26:11 : INFO] - multisite: N 
+[2023-08-11 05:26:11 : INFO] - openssl: OpenSSL 1.1.1t  7 Feb 2023 
